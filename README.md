@@ -18,3 +18,7 @@ This pipeline is a foundational tool for **bioinformatics and epidemiological su
 2. Install the required library: `pip install requests`
 3. Run the script: `python E.coli-fasta.py`
 4. The script will generate a `.fasta` file containing the AMR gene sequence.
+## Sequence Visualization
+Below is the genetic map of the *blaCTX-M-15* resistance gene retrieved by the pipeline, visualized using VectorBee:
+Genetic map of the blaCTX-M-15 extended-spectrum beta-lactamase gene, retrieved via the automated Python pipeline and visualized using VectorBee. This sequence confers resistance to third-generation cephalosporins in E. coli.
+![AMR Gene Sequence Map](https://github.com/perezmadrigalrafael35-ship-it/NCBI-AMR-Surveillance/blob/main/plasmid_map.png.png)
